@@ -1,2 +1,2 @@
-import fusion as fusion
-import modules as modules 
+from . import fusion
+from . import modules 
