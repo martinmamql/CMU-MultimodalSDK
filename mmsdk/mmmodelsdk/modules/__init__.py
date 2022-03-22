@@ -1,1 +1,1 @@
-from LSTHM.LSTHM import LSTHM as LSTHM
+from .LSTHM.LSTHM import LSTHM as LSTHM
