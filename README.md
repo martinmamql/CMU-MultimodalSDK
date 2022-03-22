@@ -1,4 +1,4 @@
-This is a updated version of SDK for Python 3.X usage.
+This is a updated version of SDK for Python 3.X usage of the Social-IQ datasets.
 
 # CMU-Multimodal SDK Version 1.2.0 (mmsdk)
 
